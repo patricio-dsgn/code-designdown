@@ -14,6 +14,11 @@ H5 **## H5**
 
 H6 **## H6**
 
+<font color="red">This text is red!</font>
+
+[![Image alt text](https://i0.wp.com/www.lacoladerata.co/wp-content/uploads/2015/05/chetbaker.jpg?fit=439%2C475&ssl=1)](https://www.youtube.com/watch?v=zTVlrOk9a8M)
+
+
 
 ```json
 {
@@ -35,7 +40,7 @@ H6 **## H6**
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
-|             |             |
+🖌️
 
 
 
