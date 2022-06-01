@@ -2,21 +2,49 @@
 
 Títulos
 
-H1 `## H1`
+H1 **## H1**
 
-H2 `## H2`
+H2 **## H2**
 
-H3 `## H3`
+H3 **## H3**
 
-H4 `## H4`
+H4 **## H4**
 
-H5 `## H5`
+H5 **## H5**
 
-H6 `## H6`
+H6 **## H6**
 
 
-Negrita	** negrita **
-Cursiva	* texto en cursiva *
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+```css
+  .head{
+      color: #777;
+
+  }
+```
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
+
+
+
+
+Negrita	** **negrita** **
+
+Cursiva	* *texto en cursiva* *
+
 Cita en bloque	>
 Lista ordenada	1. Primer elemento
 2. Segundo elemento
